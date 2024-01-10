@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7152ba7e8210843eaa055605896f9bb1, type: 3}
+  m_Name: 3
+  m_EditorClassIdentifier: 
+  stageIndex: 3
+  monsterAmount: 5
+  monsterNames:
+  - names:
+    - Warrior
+    - BringerOfDeath
+  - names:
+    - Warrior
+    - Archer
+  - names:
+    - Bandit2
+    - Knight
+    - BringerOfDeath
+  - names:
+    - Bandit2
+    - Samurai
+    - BringerOfDeath
+  - names:
+    - Mud
+    - DarkHero
+    - Archer
+  - names:
+    - Mud
+    - DarkHero
+    - Archer
+  - names:
+    - Mud
+    - DarkHero
+    - Archer
+  - names:
+    - Mud
+    - Warrior
+    - DarkHero
+    - Archer
+  - names:
+    - Mud
+    - Warrior
+    - DarkHero
+    - Archer
+    - BringerOfDeath
+  - names:
+    - Warrior
+    - DarkHero
+    - Archer
+    - BringerOfDeath
+  bossMonsterNameList:
+  - "\uAD81\uC218"
+  - "\uD0C0\uB77D\uD55C \uC601\uC6C5"
+  - "\uC9C4\uD759 \uAD34\uBB3C"
+  - "\uC9C4\uD759 \uAD34\uBB3C"
+  - "\uC6E8\uD3F0\uB9C8\uC2A4\uD130"
+  - "\uC6E8\uD3F0\uB9C8\uC2A4\uD130"
+  - "\uBC1C\uD0A4\uB9AC"
+  - "\uBC1C\uD0A4\uB9AC"
+  - "\uD0C0\uB77D\uD55C \uC601\uC6C5"
+  - "\uC815\uCCB4\uBD88\uBA85\uC758 \uC0AC\uB098\uC774"
+  bossMonsterImageList:
+  - {fileID: 21300000, guid: c6daccde03bc24a7cb11494f9ad0e083, type: 3}
+  - {fileID: 21300000, guid: 1f1da1e7110194c1a98f7ee1f0386784, type: 3}
+  - {fileID: 21300000, guid: 26e51f2e22258466e950ffa1fde7f1db, type: 3}
+  - {fileID: 21300000, guid: 26e51f2e22258466e950ffa1fde7f1db, type: 3}
+  - {fileID: 21300000, guid: 983958624c3cd4d3aa7d4ce3eb20766f, type: 3}
+  - {fileID: 21300000, guid: 983958624c3cd4d3aa7d4ce3eb20766f, type: 3}
+  - {fileID: 21300000, guid: 74f29b2bddef648008d92d3fa9ec555a, type: 3}
+  - {fileID: 21300000, guid: 74f29b2bddef648008d92d3fa9ec555a, type: 3}
+  - {fileID: 21300000, guid: 1f1da1e7110194c1a98f7ee1f0386784, type: 3}
+  - {fileID: 21300000, guid: ed4f51fc7be6c40b782e10a9e94d2ce7, type: 3}
+  equipmentTypes:
+  - names:
+    - helmet
+    - armor
+  - names:
+    - shoes
+    - cloak
+  - names:
+    - gloves
+    - pants
+  - names:
+    - helmet
+    - shoes
+  - names:
+    - armor
+    - cloak
+  - names:
+    - gloves
+    - pants
+  - names:
+    - shoes
+    - armor
+  - names:
+    - armor
+    - gloves
+  - names:
+    - shoes
+    - pants
+  - names:
+    - gloves
+    - helmet
+  monsterLevels: 4b0000004d000000500000005200000055000000580000005a0000005b0000005c0000005f000000
